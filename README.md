@@ -4,6 +4,7 @@ Data and software pertaining to the article, Better Together: An Integrative Ass
 **ZIP files contains data:**
 
 CD_data.zip = CD spectra
+
 CG_simulations.zip = .xtc and .tpr files used for analysis of coarse-grained simulations	
 
 Full_atom_simulations	= xtc and .tpr files used for analysis of full-atom simulations
