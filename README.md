@@ -11,5 +11,8 @@ SAXS_Lund_data = SAXS spectra gathered in Lund
 
 **Other files:**
 
-Jupyter notebook containing code for generating presented figures
+Figure_new.ipynb contains code for generating presented figures
 
+chain_index.sh was used to generate GROMACS index groups for each peptide chain in a simulation
+
+pairdist.sh was used to generate data for contact maps
