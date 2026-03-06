@@ -13,4 +13,7 @@ SAXS_Grenoble_data = SAXS spectra gathered at the ESRF in Grenoble
 
 SAXS_Lund_data = SAXS spectra gathered in Lund 
 
-**Uploaded Jupyter notebook contains all code for generating the presented figures**
+**Other files:**
+
+Jupyter notebook containing code for generating presented figures
+
