@@ -11,7 +11,7 @@ SAXS_Lund_data = SAXS spectra gathered in Lund
 
 **Other files:**
 
-Figure_new.ipynb contains code for generating presented figures
+Figure_new.ipynb contains code for generating presented figures, this contains scripts for performing decomposition analysis methods
 
 chain_index.sh was used to generate GROMACS index groups for each peptide chain in a simulation
 
